@@ -9,7 +9,7 @@ A full-stack React + Spring Boot app that simulates crypto trading with mock por
 
 ## 💡 Features
 - Fake trading with real crypto prices
-- Wallet deposits, trade history, auto-refreshing prices
+- Wallet deposits, auto-refreshing prices
 - Planned: User login, per-user portfolio (PostgreSQL)
 
 ## 🚀 To Run Locally
