@@ -19,8 +19,9 @@ A full-stack React + Spring Boot app that simulates crypto trading with mock por
 cd crypto-trading-simulator-frontend
 npm install
 npm start
-
+```
 **Backend:**
 ```bash
 cd backend
 ./mvnw spring-boot:run
+```
